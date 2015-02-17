@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/porcnick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jra3.github.io
+  * I am porcnick (https://keybase.io/porcnick) on keybase.
+  * I have a public key with fingerprint 96BC F5E7 312E 09AF 07D2  C63A C616 5B45 F816 7D4E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "96bcf5e7312e09af07d2c63ac6165b45f8167d4e",
+            "host": "keybase.io",
+            "key_id": "c6165b45f8167d4e",
+            "kid": "01010e86136b1bbfb0b2b94e40f12ca0f0049fdde3a7c4c619e999aa0b5d41fc220e0a",
+            "uid": "80f4d3fbabf6010dcfa6abcaef937900",
+            "username": "porcnick"
+        },
+        "revoke": {
+            "sig_ids": [
+                "bb4d8b911ae426782efbabe25bd8c99c468e64f4facb039ca4ac6bac5138011c0f"
+            ]
+        },
+        "service": {
+            "hostname": "jra3.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424205719,
+    "expire_in": 157680000,
+    "prev": "4aaa95ada995847a58670b5dd4b19367b82b1da85325680034cc7a9c16f5f1ea",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.4
+Comment: https://keybase.io/crypto
+
+yMN1AnicbZJ7UFRVHMcXVyi2eChGCZF2Q5BcnPt+LFpNo04KjpmUTD7onHPPZS8L
+d5d9oIgwRqKGjAyWQzM4BIrrkAMjOSn2UAkEGSK3aEiJ0oSAyRAFqxnBoXvJ/uuc
+P86c3+/7+/x+8z2nPcxssgS9cbrCP5wRkRzU3VrrM6UPnqwqJKBTLiBshYQDzx6K
+qmVht8utal7CRkg8RAqHBYaiMSkBhRRkGvEMQDzFc5DlFJHiBZnFhJWwOz1GhY6B
+wIOXq049pl8yVVmP/o/eMZsgKX1jkacYHlIQKpCENJRYzJIKRSNAKiTJSoosYwYI
+iNUxEpYkCQAScjJLKYimSUwCHeebxYmkwsqMAgFUeB0sIwXwACKAFYkRJJI0hB7s
+1kAu1tUupxtpKnIQRVbCjfOdDmw44FGz9KE9hG0LASEri1CiKIBZmhdEGhtoTHNQ
+FpEkIZYXMc8qrAIQJBkJAVZ3BgLEUYxIUhQiFWKbztY75qtoFm649Kh7thswy7NU
+r90H/3XL5XZ6nciZo+fsXq/LYzPm8ha4DPEODDMfYTKhqsn6K+kV+djtUZ0aYaN0
+JfKqBpdiaZYmOYGSrATe6VLdOFM1FJzAi6S+jD44X0eyAACJAzKQJE5kBcCJvGDY
+KrOQkhhegCINKRmIHENzRinDIiQACVG8wikUNkz34DzNqbMpfU6QpTN17zTg9bkx
+UfR169a5piCLKSR4jvHRTJbQyP++H3U5Yqawcuj1bf2b/oS/mOMnI9iWtU0L1vSt
+6LvdM6EpxXBDS8MPwa+E3rj77HPD6bFliassHTVf9o3F+cq46DOalb8aElu853ZF
+wswFbQxsbujfEZPRuEyoQ7/6N7+ZdjjBnkuPjZfV/h63cmLJeHOGubt6564N++8F
+X+Cjek9NxH5V0t6UUQAXXTFfs1cd7zjcyWlzBh67S446cwMvDzaNPozKbAt9NSq1
+7dAz9YHp56N3fx+fOr6dMDVbT2PtFptifmHBnYktdd3ixRXz7Tnz/Dcje466yntt
+CQ3NT3FeKtVRvS+5bd/A9eLp1YMdNbb2g11Dg0JdtvJ+XchkfYC8f6PRlvTRLebk
+Kn/9yNJ1D/fmLWzcCH5bl7i+uKwnJiK79lDVB+FfTKxNWd0lR3wS9tl7BxOIkZWD
+LUyZf2DN3lKusiA2F43et459frUnvvDJuo2ti8/6Piw50mcufWmXRCxJ2/PadzHv
+bJ9LzEzixJDqsANv/51D9u8Of3Cp98Rkk2PqiaDI9Z++1be46Y/rw6c+zqaD6R8F
+Ju/dpLyW+HMLa6K+XbppUbNYOfRTsll83NbVQMa0vpg7Vlpecux4+Rl3SCd7pDz8
+rBI9P6DZ1W9strS/jv7sP5F0/t7NB1uH0q/0Tlk6G5dVnL8cG9d/cSS5/86xigMO
+Zd7UqOfSNTIxYDn3dCDfW5Qy/Q/Yb8V+
+=VJDu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/porcnick
+
+==================================================================
